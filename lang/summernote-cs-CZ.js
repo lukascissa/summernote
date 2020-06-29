@@ -45,6 +45,7 @@
         textToDisplay: 'Zobrazovaný text',
         url: 'Na jaké URL má tento odkaz vést?',
         openInNewWindow: 'Otevřít v novém okně',
+        useProtocol: 'Použít výchozí protokol',
       },
       table: {
         table: 'Tabulka',
